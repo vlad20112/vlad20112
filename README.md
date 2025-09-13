@@ -12,6 +12,10 @@
 
 [![Visits Badge](https://badges.pufler.dev/years/vlad20112)](https://github.com/vlad20112)[![CodeWars](https://www.codewars.com/users/vlad20112/badges/small)](https://www.codewars.com/users/vlad20112)
 
+<a href="https://github.com/vlad20112/vlad20112">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vlad20112&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
+</a>
+
 
 Пока из наиболее интересного:
 - Проект, скрывающий под собой [игру](https://github.com/vlad20112/thirdProject) на движке [FunGEn](https://github.com/haskell-game/fungen) (страшное дело, но почему бы и нет);
